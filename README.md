@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Minal Mohod</h1>
-<h3 align="center">Aspiring data analyst with strong foundation in data analysis, statistical methods, and data visualization.</h3>
+**Online Sales Analysis 📊**
 
-- 🔭 I’m currently working on **Online Sales Analysis**
+This project analyzes online sales data to uncover trends, customer behavior, and key performance indicators. Using Python and Jupyter Notebook, it leverages data visualization and statistical analysis to provide actionable business insights.
 
-- 💬 Ask me about **Python, Excel, Power BI, SQL**
+🔹 Features:
 
-- 📫 How to reach me **minalmohod103@gmail.com**
+Data cleaning & preprocessing
+Sales trend analysis
+Customer segmentation
+Revenue forecasting
+Interactive visualizations
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/minal mohod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minal mohod" height="30" width="40" /></a>
-</p>
+🔹 Technologies Used:
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Jupyter Notebook
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📌 Insights from this analysis can help businesses optimize marketing strategies and improve sales performance.
